@@ -1,6 +1,6 @@
-## 📱 Pantallas de la App *Cayro Uniformes*
+## Pantallas de la App *Cayro Uniformes*
 
-### 🟦 WelcomeScreen
+### WelcomeScreen
 
 **Descripción:**
 Pantalla de introducción que presenta la identidad visual de Cayro Uniformes.
@@ -15,7 +15,7 @@ Pantalla de introducción que presenta la identidad visual de Cayro Uniformes.
 
 ---
 
-### 🔄 SyncScreen
+### SyncScreen
 
 **Descripción:**
 Pantalla para sincronizar la cuenta del usuario mediante un código.
@@ -30,7 +30,7 @@ Pantalla para sincronizar la cuenta del usuario mediante un código.
 
 ---
 
-### 🔔 NotificationsScreen
+### NotificationsScreen
 
 **Descripción:**
 Pantalla que da acceso a las notificaciones de pedidos del usuario.
@@ -45,7 +45,7 @@ Pantalla que da acceso a las notificaciones de pedidos del usuario.
 
 ---
 
-### 📦 OrderDetailScreen
+### OrderDetailScreen
 
 **Descripción:**
 Pantalla de detalles de un pedido específico.
@@ -58,9 +58,3 @@ Pantalla de detalles de un pedido específico.
 ![Screenshot 2025-05-25 155119](https://github.com/user-attachments/assets/55b89cfc-9d4f-4462-9dcb-78b723d1e76f)
 
 ---
-### 📦 Previews
-
-Se incluye previews para diferentes pantallas de la aplicacion:
-- @Preview(device = WearDevices.SMALL_ROUND, showSystemUi = true)
-- @Preview(device = WearDevices.LARGE_ROUND, showSystemUi = true)
-- @Preview(device = WearDevices.SQUARE, showSystemUi = true)
